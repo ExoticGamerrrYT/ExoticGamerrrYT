@@ -1,28 +1,32 @@
-### Hello I am Exotic
+<h1> Hello I am Exotic </h1>
 
-* 🔭 I’m currently working on a VSCode extension that has snippets of the Stand API and GTA V namespaces and natives.
-* 🌱 I’m currently learning C++.
-* 👯 I’m looking to collaborate with someone for any project.
-* 📫 How to reach me: carlosalfaromolina27@gmail.com // Discord: ``3xotic.``
+- 🔭 I’m currently working on a tasks manager with React.
+- 🌱 I’m currently learning Typescript (Javascript).
+- 👯 I’m looking to collaborate with someone for any web-based project.
+- 📫 Discord: `3xotic.`
 
-### My knowledge
-#### Languages
+<h3> My knowledge </h3>
+
+<h4> Languages </h4>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,html,css,cs,cpp,md"/>
+    <img src="https://skillicons.dev/icons?i=python,html,css,ts,react,js,cs,cpp,md"/>
   </a>
 </p>
 
-#### Tools/IDES
+<h4> Tools/IDES </h4>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
+    <img src="https://skillicons.dev/icons?i=vscode,git"/>
   </a>
 </p>
 
-#### Games
+<h4> Games </h4>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,godot,gamemakerstudio,unreal"/>
+    <img src="https://skillicons.dev/icons?i=unreal,unity,godot,gamemakerstudio"/>
   </a>
 </p>
