@@ -19,3 +19,7 @@
     <img src="https://skillicons.dev/icons?i=python,cs,html,css,ts,react,git,unreal,gamemakerstudio" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=exoticgamerrryt&show_icons=true&theme=github_dark_dimmed" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=exoticgamerrryt&theme=github_dark_dimmed&hide_progress=true" alt="Top Languages" />
+</p>
