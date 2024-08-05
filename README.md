@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Exotic 👋</h1>
 
 <p align="center">
-  🔭 I’m currently working on a C# Launchpad for a thing.<br>
+  🔭 I’m currently working on nothing (contact me if you want plsz)<br>
   👯 I'm always ready to collaborate.<br>
   📫 Contact me on Discord: <strong>3xotic.</strong>
 </p>
